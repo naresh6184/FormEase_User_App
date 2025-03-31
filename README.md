@@ -53,7 +53,7 @@ cd FormEase_User_App
 flutter pub get
 ```
 
-4. **Run the app**
+3. **Run the app**
 ```sh
 flutter run
 ```
